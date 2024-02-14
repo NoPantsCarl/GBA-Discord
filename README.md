@@ -1,4 +1,3 @@
-/**
  * Project Archive: GBA-Discord
  * 
  * This repository houses an archived version of the GameBoyCore.js file from grantgalitz/GameBoy-Online, which was previously an NPM module exporting the GameBoyCore.js file. Please note that this project is no longer actively maintained or functional, and it is provided here purely for archival purposes.
@@ -45,6 +44,5 @@
  * - error: Raised when emulation should be paused due to unexpected behavior.
  * 
  * Please be aware that while this codebase may serve as a valuable reference, it is no longer actively maintained or supported.
- */
 
-// Place the code for GameBoyCore.js here
+
