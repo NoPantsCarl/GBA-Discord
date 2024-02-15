@@ -14,7 +14,7 @@
  * - Transformation of the main interface into an Emitter pattern.
  * - Integration of debug features for easier troubleshooting.
  * - Addition of server-side usage examples for reference.
- * 
+ *
 ##How to Use:
  * To utilize this archived version, simply include the GameBoyCore.js file in your project and follow the below usage pattern:
  * 
