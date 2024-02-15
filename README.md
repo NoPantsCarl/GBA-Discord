@@ -1,8 +1,8 @@
- * Project Archive: GBA-Discord
+##Project Archive: GBA-Discord
  * 
  * This repository houses an archived version of the GameBoyCore.js file from grantgalitz/GameBoy-Online, which was previously an NPM module exporting the GameBoyCore.js file. Please note that this project is no longer actively maintained or functional, and it is provided here purely for archival purposes.
  * 
- * Changes and Updates:
+## Changes and Updates:
  * - Conversion into a module format.
  * - Elimination of global variables for improved modularity.
  * - Streamlined interface for adjusting options.
@@ -15,13 +15,13 @@
  * - Integration of debug features for easier troubleshooting.
  * - Addition of server-side usage examples for reference.
  * 
- * How to Use:
+##How to Use:
  * To utilize this archived version, simply include the GameBoyCore.js file in your project and follow the below usage pattern:
  * 
  * var gb = require('gameboy');
  * gb(canvasElement, romData, opts);
  * 
- * Options:
+## Options:
  * - bootRom: Boot with the boot ROM first (default: true).
  * - gbBootRom: Use GameBoy boot ROM instead of GameBoy Color (default: false).
  * - mbc1: Allow for MCB1 instead of ROM only (default: false).
@@ -39,7 +39,7 @@
  * - typedArrays: Use typed arrays (default: true).
  * - channels: User-controlled channel enables (default: [true,true,true,true]).
  * 
- * Events:
+## Events:
  * - draw: Raised only if drawEvents is true whenever a draw to the canvas occurs.
  * - error: Raised when emulation should be paused due to unexpected behavior.
  * 
