@@ -17,7 +17,6 @@
  *
 ##How to Use:
  * To utilize this archived version, simply include the GameBoyCore.js file in your project and follow the below usage pattern:
- * 
  * var gb = require('gameboy');
  * gb(canvasElement, romData, opts);
  * 
